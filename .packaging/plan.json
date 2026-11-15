@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc --noEmit && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "pnpm-lock.yaml",
+  "mode": "native_source_build",
+  "repository": "renyijiu/budline",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "3517a1f9da3e94afd59e9079be8e3a0b0bd65805"
+}
